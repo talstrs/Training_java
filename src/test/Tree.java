@@ -16,7 +16,7 @@ public class Tree {
 	}
 
 }
-// System.out.print의 차이점
+// System.out.print의 차이점!
 // print : 괄호 안 내용을 단순히 출력. 개행문자(줄바꿈문자[\n]) 미포함
 // printf : %d, %s 등을 쓰기 위해 사용하며 개행문자(줄바꿈문자[\n]) 미포함
 // println : 괄호 안 내용을 출력한 후 마지막에 개행 문자가 포함되어 있어 출력 후 한 줄 띄워짐 
