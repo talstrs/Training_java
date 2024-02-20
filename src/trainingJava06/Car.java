@@ -35,6 +35,40 @@ public class Car {
 	
 	public void left() {
 		System.out.println("좌로 갑니다");
+		
+		
+	}
+
+	public String getBrand() {
+		return brand;
+	}
+
+	public void setBrand(String brand) {
+		this.brand = brand;
+	}
+
+	public int getCarType() {
+		return carType;
+	}
+
+	public void setCarType(int carType) {
+		this.carType = carType;
 	}
 	
+	
+	public String getName() {
+		return name;
+	}
+	
+	public void setName(String name) {
+		this.name = name;
+	}
+	
+	public double getPower() {
+		return power;
+	}
+	
+	public void setPower(double power) {
+		this.power = power;
+	}
 }
